@@ -1,0 +1,13 @@
+{"action":"/select","name":"storage","lsn":0,"feature":null}
+{"action":"/insert","name":"storage","lsn":1,"feature":{"id":"38646a73-7f82-41a2-b38b-d548842c136d","type":"Feature","geometry":{"type":"Point","coordinates":[3052652.2261831146,5524325.837859048]},"properties":null}}
+{"action":"/insert","name":"storage","lsn":2,"feature":{"id":"dcaff944-65ab-4012-9c00-a282502eaa03","type":"Feature","geometry":{"type":"Point","coordinates":[4214575.345519254,5645044.995896776]},"properties":null}}
+{"action":"/select","name":"storage","lsn":3,"feature":null}
+{"action":"/replace","name":"storage","lsn":4,"feature":{"id":"38646a73-7f82-41a2-b38b-d548842c136d","type":"Feature","geometry":{"type":"Point","coordinates":[3573786.1224228595,5438857.956771942]},"properties":null}}
+{"action":"/replace","name":"storage","lsn":5,"feature":{"id":"38646a73-7f82-41a2-b38b-d548842c136d","type":"Feature","geometry":{"type":"Point","coordinates":[3734390.266697973,5385323.24201357]},"properties":null}}
+{"action":"/select","name":"storage","lsn":6,"feature":null}
+{"action":"/select","name":"storage","lsn":7,"feature":null}
+{"action":"/select","name":"storage","lsn":8,"feature":null}
+{"action":"/select","name":"storage","lsn":9,"feature":null}
+{"action":"/select","name":"storage","lsn":10,"feature":null}
+{"action":"/select","name":"storage","lsn":11,"feature":null}
+{"action":"/select","name":"storage","lsn":12,"feature":null}

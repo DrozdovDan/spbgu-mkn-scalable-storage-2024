@@ -1,0 +1,4 @@
+{"action":"/insert","name":"GlobalTest","lsn":0,"feature":{"id":"8eef8218-4f84-4b24-a979-2ee83abbd710","type":"Feature","geometry":{"type":"Point","coordinates":[-0.6584603112330356,-0.061236716938371794]},"properties":null}}
+{"action":"/replace","name":"GlobalTest","lsn":1,"feature":{"id":"d6cff95f-e96e-4063-8b7e-e97dca19345b","type":"Feature","geometry":{"type":"LineString","coordinates":[[1.5150640766842551,-1.8143670340338889],[0.7840012913701011,1.1463269248068229]]},"properties":null}}
+{"action":"/insert","name":"GlobalTest","lsn":2,"feature":{"id":"df26e713-706e-46b9-afe7-8d3aad20ba6c","type":"Feature","geometry":{"type":"Point","coordinates":[-0.9430419107226127,-0.33471415744518146]},"properties":null}}
+{"action":"/delete","name":"GlobalTest","lsn":3,"feature":{"id":"df26e713-706e-46b9-afe7-8d3aad20ba6c","type":"Feature","geometry":{"type":"Point","coordinates":[-0.9430419107226127,-0.33471415744518146]},"properties":null}}
